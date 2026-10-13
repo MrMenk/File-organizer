@@ -32,10 +32,3 @@ A modular, cross-platform Python application designed to automatically organize 
    - **GUI**: Built with Python’s native Tkinter library. Features background threading to keep the UI responsive during large directory scans.
    - **CLI**: Standard command-line interface with verbose dry-run previews and structured output.
 
----
-
-## Installation & Setup
-
-### Requirements
-- **Python 3.11+**
-- Python Standard Library (`tkinter`, `sqlite3`, `hashlib`, `pathlib`, `json`, `logging`, `threading`, `argparse`)
